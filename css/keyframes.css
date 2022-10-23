@@ -20,6 +20,7 @@
   0% {transform: rotate(30deg);}
   50% {transform: rotate(60deg);}
   100% {transform: rotate(90deg);top: 230px;left:700px ;}
+}
 
 @keyframes burti  {
    0% {bottom: 100px; left: 420px;}
